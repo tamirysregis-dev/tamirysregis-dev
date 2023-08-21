@@ -15,3 +15,12 @@
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+##
+
+<div> 
+ 
+ 
+  ![Snake animation](https://github.com/tamirysregis-dev/tamirysregis-dev/blob/output/github-contribution-grid-snake.svg)
+ 
+</div>
