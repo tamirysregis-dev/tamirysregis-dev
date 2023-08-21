@@ -6,7 +6,7 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=tamirysregis-dev&theme=monokai&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=tamirysregis-dev&theme=monokai&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-### 🔝 Top Contributed Repo
+### 🔝 Top Contributed Repo.
 ![](https://github-contributor-stats.vercel.app/api?username=tamirysregis-dev&limit=5&theme=monokai&combine_all_yearly_contributions=true)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
